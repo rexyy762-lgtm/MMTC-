@@ -1,0 +1,393 @@
+{
+  "1460455418559074368": {
+    "userId": "1460455418559074368",
+    "gamemodes": {
+      "NODEBUFF": {
+        "tier": null,
+        "tests": 1,
+        "history": [
+          {
+            "tier": "LT4",
+            "previousTier": null,
+            "testerId": "1460455418559074368",
+            "ticketId": "1544654583735914618",
+            "timestamp": "2026-09-02T10:29:31.994Z"
+          }
+        ]
+      },
+      "MIDFIGHT": {
+        "tier": null,
+        "tests": 1,
+        "history": [
+          {
+            "tier": "HT2",
+            "previousTier": null,
+            "score": "4-6",
+            "note": "ggs",
+            "testerId": "1460455418559074368",
+            "ticketId": "1544667629363535953",
+            "timestamp": "2026-09-02T11:36:03.194Z"
+          }
+        ]
+      },
+      "SKYWARS": {
+        "tier": null,
+        "tests": 2,
+        "history": [
+          {
+            "tier": "HT1",
+            "previousTier": null,
+            "score": "4-9",
+            "note": "ggs w",
+            "testerId": "1460455418559074368",
+            "ticketId": "1544672858830020718",
+            "timestamp": "2026-09-02T11:38:58.743Z"
+          },
+          {
+            "tier": "MT1",
+            "previousTier": null,
+            "score": "2-15",
+            "note": "hattt",
+            "testerId": "1460455418559074368",
+            "ticketId": "1545391879091134534",
+            "timestamp": "2026-09-04T11:17:30.967Z"
+          }
+        ]
+      },
+      "CRYSTAL PVP": {
+        "tier": "HT5",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "HT5",
+            "previousTier": null,
+            "score": "2-7",
+            "note": "w ggs",
+            "testerId": "1460455418559074368",
+            "ticketId": "1546452533927481455",
+            "timestamp": "2026-09-07T09:31:49.688Z"
+          }
+        ],
+        "cooldownUntil": 1789378309694
+      }
+    },
+    "stats": {
+      "tests": 5,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "NODEBUFF",
+        "tier": "LT4",
+        "testerId": "1460455418559074368",
+        "ticketId": "1544654583735914618",
+        "timestamp": "2026-09-02T10:29:31.995Z"
+      },
+      {
+        "gamemode": "MIDFIGHT",
+        "tier": "HT2",
+        "previousTier": null,
+        "score": "4-6",
+        "note": "ggs",
+        "testerId": "1460455418559074368",
+        "ticketId": "1544667629363535953",
+        "timestamp": "2026-09-02T11:36:03.202Z"
+      },
+      {
+        "gamemode": "SKYWARS",
+        "tier": "HT1",
+        "previousTier": null,
+        "score": "4-9",
+        "note": "ggs w",
+        "testerId": "1460455418559074368",
+        "ticketId": "1544672858830020718",
+        "timestamp": "2026-09-02T11:38:58.743Z"
+      },
+      {
+        "gamemode": "SKYWARS",
+        "tier": "MT1",
+        "previousTier": null,
+        "score": "2-15",
+        "note": "hattt",
+        "testerId": "1460455418559074368",
+        "ticketId": "1545391879091134534",
+        "timestamp": "2026-09-04T11:17:30.967Z"
+      },
+      {
+        "gamemode": "CRYSTAL PVP",
+        "tier": "HT5",
+        "previousTier": null,
+        "score": "2-7",
+        "note": "w ggs",
+        "testerId": "1460455418559074368",
+        "ticketId": "1546452533927481455",
+        "timestamp": "2026-09-07T09:31:49.688Z"
+      }
+    ]
+  },
+  "1524788672778731701": {
+    "userId": "1524788672778731701",
+    "gamemodes": {
+      "MIDFIGHT": {
+        "tier": "HT4",
+        "tests": 2,
+        "history": [
+          {
+            "tier": "HT4",
+            "previousTier": null,
+            "score": "9-2",
+            "note": "ggs my favor he improved",
+            "testerId": "1460455418559074368",
+            "ticketId": "1544664510722474035",
+            "timestamp": "2026-09-02T11:11:18.620Z"
+          },
+          {
+            "tier": "HT4",
+            "previousTier": null,
+            "score": "5-3",
+            "note": "I'm goat 🐐",
+            "testerId": "1524788672778731701",
+            "ticketId": "1545391985534177313",
+            "timestamp": "2026-09-04T11:17:36.403Z"
+          }
+        ]
+      },
+      "BUILD UHC": {
+        "tier": "LT3",
+        "tests": 2,
+        "history": [
+          {
+            "tier": "HT1",
+            "previousTier": null,
+            "score": "10-0",
+            "note": "I'm good of buhc 😉",
+            "testerId": "1524788672778731701",
+            "ticketId": "1544673150606909461",
+            "timestamp": "2026-09-02T11:40:13.053Z"
+          },
+          {
+            "tier": "LT3",
+            "previousTier": null,
+            "score": "7-8",
+            "note": "good player overall w gamesense and good aim.",
+            "testerId": "1460455418559074368",
+            "ticketId": "1545805668450046053",
+            "timestamp": "2026-09-05T14:42:24.727Z"
+          }
+        ]
+      },
+      "MACE": {
+        "tier": null,
+        "tests": 1,
+        "history": [
+          {
+            "tier": "LT1",
+            "previousTier": null,
+            "score": "2-7",
+            "note": "w",
+            "testerId": "1460455418559074368",
+            "ticketId": "1544717205843746816",
+            "timestamp": "2026-09-02T14:37:51.550Z"
+          }
+        ]
+      },
+      "SKYWARS": {
+        "tier": null,
+        "tests": 1,
+        "history": [
+          {
+            "tier": "LT3",
+            "previousTier": null,
+            "score": "5-3",
+            "note": "Gokul is goat",
+            "testerId": "1524788672778731701",
+            "ticketId": "1545361160092782662",
+            "timestamp": "2026-09-04T09:14:29.189Z"
+          }
+        ]
+      }
+    },
+    "stats": {
+      "tests": 6,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "MIDFIGHT",
+        "tier": "HT4",
+        "previousTier": null,
+        "score": "9-2",
+        "note": "ggs my favor he improved",
+        "testerId": "1460455418559074368",
+        "ticketId": "1544664510722474035",
+        "timestamp": "2026-09-02T11:11:18.620Z"
+      },
+      {
+        "gamemode": "BUILD UHC",
+        "tier": "HT1",
+        "previousTier": null,
+        "score": "10-0",
+        "note": "I'm good of buhc 😉",
+        "testerId": "1524788672778731701",
+        "ticketId": "1544673150606909461",
+        "timestamp": "2026-09-02T11:40:13.053Z"
+      },
+      {
+        "gamemode": "MACE",
+        "tier": "LT1",
+        "previousTier": null,
+        "score": "2-7",
+        "note": "w",
+        "testerId": "1460455418559074368",
+        "ticketId": "1544717205843746816",
+        "timestamp": "2026-09-02T14:37:51.551Z"
+      },
+      {
+        "gamemode": "SKYWARS",
+        "tier": "LT3",
+        "previousTier": null,
+        "score": "5-3",
+        "note": "Gokul is goat",
+        "testerId": "1524788672778731701",
+        "ticketId": "1545361160092782662",
+        "timestamp": "2026-09-04T09:14:29.189Z"
+      },
+      {
+        "gamemode": "MIDFIGHT",
+        "tier": "HT4",
+        "previousTier": null,
+        "score": "5-3",
+        "note": "I'm goat 🐐",
+        "testerId": "1524788672778731701",
+        "ticketId": "1545391985534177313",
+        "timestamp": "2026-09-04T11:17:36.403Z"
+      },
+      {
+        "gamemode": "BUILD UHC",
+        "tier": "LT3",
+        "previousTier": null,
+        "score": "7-8",
+        "note": "good player overall w gamesense and good aim.",
+        "testerId": "1460455418559074368",
+        "ticketId": "1545805668450046053",
+        "timestamp": "2026-09-05T14:42:24.727Z"
+      }
+    ]
+  },
+  "1479341349709938900": {
+    "userId": "1479341349709938900",
+    "gamemodes": {
+      "SKYWARS": {
+        "tier": null,
+        "tests": 1,
+        "history": [
+          {
+            "tier": "HT2",
+            "previousTier": null,
+            "score": "2-6",
+            "note": "w",
+            "testerId": "1460455418559074368",
+            "ticketId": "1544674423955656727",
+            "timestamp": "2026-09-02T11:46:00.739Z"
+          }
+        ]
+      }
+    },
+    "stats": {
+      "tests": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "SKYWARS",
+        "tier": "HT2",
+        "previousTier": null,
+        "score": "2-6",
+        "note": "w",
+        "testerId": "1460455418559074368",
+        "ticketId": "1544674423955656727",
+        "timestamp": "2026-09-02T11:46:00.739Z"
+      }
+    ]
+  },
+  "1531701748912230520": {
+    "userId": "1531701748912230520",
+    "gamemodes": {
+      "SKYWARS": {
+        "tier": "HT5",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "HT5",
+            "previousTier": null,
+            "score": "10-0",
+            "note": "W",
+            "testerId": "1524788672778731701",
+            "ticketId": "1545117088337756324",
+            "timestamp": "2026-09-03T17:04:51.631Z"
+          }
+        ]
+      }
+    },
+    "stats": {
+      "tests": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "SKYWARS",
+        "tier": "HT5",
+        "previousTier": null,
+        "score": "10-0",
+        "note": "W",
+        "testerId": "1524788672778731701",
+        "ticketId": "1545117088337756324",
+        "timestamp": "2026-09-03T17:04:51.631Z"
+      }
+    ]
+  },
+  "1534952214790012938": {
+    "userId": "1534952214790012938",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1504139226701365249": {
+    "userId": "1504139226701365249",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1357255623225376801": {
+    "userId": "1357255623225376801",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1426206103460642816": {
+    "userId": "1426206103460642816",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  }
+}

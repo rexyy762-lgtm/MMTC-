@@ -1,0 +1,16 @@
+{
+  "1543593005607420048": {
+    "testingChannelId": "1545742772517216306",
+    "gamemodes": [
+      "SKYWARS",
+      "MIDFIGHT",
+      "NODEBUFF",
+      "MACE",
+      "BUILD UHC",
+      "CRYSTAL PVP"
+    ],
+    "updatedAt": 1788683235774,
+    "staffApplicationChannelId": "1545742394417221682",
+    "testerApplicationChannelId": "1545742460154806362"
+  }
+}

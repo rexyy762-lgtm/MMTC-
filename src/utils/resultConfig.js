@@ -1,0 +1,5 @@
+const RESULT_CHANNEL_ID = '1545742860798787684';
+
+module.exports = {
+  RESULT_CHANNEL_ID,
+};
