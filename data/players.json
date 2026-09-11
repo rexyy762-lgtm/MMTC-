@@ -382,13 +382,68 @@
   },
   "1426206103460642816": {
     "userId": "1426206103460642816",
-    "gamemodes": {},
+    "gamemodes": {
+      "SKYWARS": {
+        "tier": "HT4",
+        "tests": 2,
+        "history": [
+          {
+            "tier": "HT4",
+            "previousTier": null,
+            "score": "5-1",
+            "note": "had me run multiple run try improve raw, proj, block, and try to hold combo longer GG!",
+            "testerId": "1440976496171815103",
+            "ticketId": "1547249941418745856",
+            "timestamp": "2026-09-10T14:10:20.707Z"
+          },
+          {
+            "tier": "HT4",
+            "previousTier": "HT4",
+            "score": "5-1",
+            "note": "solid player try improve raw proj block and use boombox more GG!!",
+            "testerId": "1440976496171815103",
+            "ticketId": "1547249941418745856",
+            "timestamp": "2026-09-10T14:28:27.415Z",
+            "resultMessageId": "1547614746323456113",
+            "resultChannelId": "1545742860798787684",
+            "editedBy": "1460455418559074368",
+            "editedAt": "2026-09-11T04:26:36.011Z"
+          }
+        ],
+        "cooldownUntil": 1789655307425
+      }
+    },
     "stats": {
-      "tests": 0,
+      "tests": 2,
       "wins": 0,
       "losses": 0
     },
-    "history": []
+    "history": [
+      {
+        "gamemode": "SKYWARS",
+        "tier": "HT4",
+        "previousTier": null,
+        "score": "5-1",
+        "note": "had me run multiple run try improve raw, proj, block, and try to hold combo longer GG!",
+        "testerId": "1440976496171815103",
+        "ticketId": "1547249941418745856",
+        "timestamp": "2026-09-10T14:10:20.708Z"
+      },
+      {
+        "gamemode": "SKYWARS",
+        "tier": "HT4",
+        "previousTier": "HT4",
+        "score": "5-1",
+        "note": "solid player try improve raw proj block and use boombox more GG!!",
+        "testerId": "1440976496171815103",
+        "ticketId": "1547249941418745856",
+        "timestamp": "2026-09-10T14:28:27.415Z",
+        "resultMessageId": "1547614746323456113",
+        "resultChannelId": "1545742860798787684",
+        "editedBy": "1460455418559074368",
+        "editedAt": "2026-09-11T04:26:36.011Z"
+      }
+    ]
   },
   "1436717887279726642": {
     "userId": "1436717887279726642",
@@ -422,6 +477,44 @@
   },
   "1280137041530720329": {
     "userId": "1280137041530720329",
+    "gamemodes": {
+      "MACE": {
+        "tier": "LT5",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "LT5",
+            "previousTier": null,
+            "score": "2-0",
+            "note": "tested by <@1447965471587700749>",
+            "testerId": "1524788672778731701",
+            "ticketId": "1547255071895584790",
+            "timestamp": "2026-09-10T06:19:08.654Z"
+          }
+        ],
+        "cooldownUntil": 1789625948662
+      }
+    },
+    "stats": {
+      "tests": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "MACE",
+        "tier": "LT5",
+        "previousTier": null,
+        "score": "2-0",
+        "note": "tested by <@1447965471587700749>",
+        "testerId": "1524788672778731701",
+        "ticketId": "1547255071895584790",
+        "timestamp": "2026-09-10T06:19:08.657Z"
+      }
+    ]
+  },
+  "1247799170295926864": {
+    "userId": "1247799170295926864",
     "gamemodes": {},
     "stats": {
       "tests": 0,
@@ -430,8 +523,402 @@
     },
     "history": []
   },
-  "1247799170295926864": {
-    "userId": "1247799170295926864",
+  "1535899284166287471": {
+    "userId": "1535899284166287471",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1466741265847685275": {
+    "userId": "1466741265847685275",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1438760057289314455": {
+    "userId": "1438760057289314455",
+    "gamemodes": {
+      "MACE": {
+        "tier": "LT4",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "LT4",
+            "previousTier": null,
+            "score": "3-0",
+            "note": "GGZ🔥",
+            "testerId": "1447965471587700749",
+            "ticketId": "1547587829931184128",
+            "timestamp": "2026-09-10T14:35:08.287Z"
+          }
+        ],
+        "cooldownUntil": 1789655708292
+      }
+    },
+    "stats": {
+      "tests": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "MACE",
+        "tier": "LT4",
+        "previousTier": null,
+        "score": "3-0",
+        "note": "GGZ🔥",
+        "testerId": "1447965471587700749",
+        "ticketId": "1547587829931184128",
+        "timestamp": "2026-09-10T14:35:08.287Z"
+      }
+    ]
+  },
+  "692646154436870145": {
+    "userId": "692646154436870145",
+    "gamemodes": {
+      "SKYWARS": {
+        "tier": "MT4",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "MT4",
+            "previousTier": null,
+            "score": "3-0",
+            "note": "I won 3-0 \nYou are potential man\nDon't block reset all the time just focus on redstone or escaping \nAnd use blocks if you get comboed  ggs!",
+            "testerId": "1524788672778731701",
+            "ticketId": "1547587332327219252",
+            "timestamp": "2026-09-10T13:07:00.231Z"
+          }
+        ],
+        "cooldownUntil": 1789650420236
+      }
+    },
+    "stats": {
+      "tests": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "SKYWARS",
+        "tier": "MT4",
+        "previousTier": null,
+        "score": "3-0",
+        "note": "I won 3-0 \nYou are potential man\nDon't block reset all the time just focus on redstone or escaping \nAnd use blocks if you get comboed  ggs!",
+        "testerId": "1524788672778731701",
+        "ticketId": "1547587332327219252",
+        "timestamp": "2026-09-10T13:07:00.231Z"
+      }
+    ]
+  },
+  "1424667144376946740": {
+    "userId": "1424667144376946740",
+    "gamemodes": {
+      "MIDFIGHT": {
+        "tier": "HT5",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "HT5",
+            "previousTier": null,
+            "score": "5-1",
+            "note": "ggs",
+            "testerId": "1295386533595189250",
+            "ticketId": "1547523988056576040",
+            "timestamp": "2026-09-10T09:44:50.622Z"
+          }
+        ],
+        "cooldownUntil": 1789638290629
+      },
+      "SKYWARS": {
+        "tier": "HT5",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "HT5",
+            "previousTier": null,
+            "score": "5-1",
+            "note": "ggs i he got 1 coz of my fps",
+            "testerId": "1295386533595189250",
+            "ticketId": "1547546469752373289",
+            "timestamp": "2026-09-10T13:58:21.244Z"
+          }
+        ],
+        "cooldownUntil": 1789653501248
+      }
+    },
+    "stats": {
+      "tests": 2,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "MIDFIGHT",
+        "tier": "HT5",
+        "previousTier": null,
+        "score": "5-1",
+        "note": "ggs",
+        "testerId": "1295386533595189250",
+        "ticketId": "1547523988056576040",
+        "timestamp": "2026-09-10T09:44:50.622Z"
+      },
+      {
+        "gamemode": "SKYWARS",
+        "tier": "HT5",
+        "previousTier": null,
+        "score": "5-1",
+        "note": "ggs i he got 1 coz of my fps",
+        "testerId": "1295386533595189250",
+        "ticketId": "1547546469752373289",
+        "timestamp": "2026-09-10T13:58:21.244Z"
+      }
+    ]
+  },
+  "1398611026852708412": {
+    "userId": "1398611026852708412",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1286002289428926512": {
+    "userId": "1286002289428926512",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1503387670322221280": {
+    "userId": "1503387670322221280",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1508080667156545587": {
+    "userId": "1508080667156545587",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1372101240367878146": {
+    "userId": "1372101240367878146",
+    "gamemodes": {
+      "SKYWARS": {
+        "tier": "LT4",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "LT4",
+            "previousTier": null,
+            "score": "5-2",
+            "note": "ggs",
+            "testerId": "1295386533595189250",
+            "ticketId": "1547568180619116544",
+            "timestamp": "2026-09-10T14:08:19.765Z"
+          }
+        ],
+        "cooldownUntil": 1789654099771
+      }
+    },
+    "stats": {
+      "tests": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "SKYWARS",
+        "tier": "LT4",
+        "previousTier": null,
+        "score": "5-2",
+        "note": "ggs",
+        "testerId": "1295386533595189250",
+        "ticketId": "1547568180619116544",
+        "timestamp": "2026-09-10T14:08:19.765Z"
+      }
+    ]
+  },
+  "1410613408319143997": {
+    "userId": "1410613408319143997",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1464494562000244887": {
+    "userId": "1464494562000244887",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1451268164859072535": {
+    "userId": "1451268164859072535",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1204482461363474432": {
+    "userId": "1204482461363474432",
+    "gamemodes": {
+      "BUILD UHC": {
+        "tier": "MT4",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "MT4",
+            "previousTier": null,
+            "score": "4-1",
+            "note": "I won 4-1, \nGood at aim\nNeed to improve on gapping and running.\nFix ping.\nYou are potential you can be Ht4\nAlso try clicking methods like jitter or butterfly you get more cps",
+            "testerId": "1524788672778731701",
+            "ticketId": "1547588319008002148",
+            "timestamp": "2026-09-10T12:46:51.967Z"
+          }
+        ],
+        "cooldownUntil": 1789649211973
+      }
+    },
+    "stats": {
+      "tests": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "BUILD UHC",
+        "tier": "MT4",
+        "previousTier": null,
+        "score": "4-1",
+        "note": "I won 4-1, \nGood at aim\nNeed to improve on gapping and running.\nFix ping.\nYou are potential you can be Ht4\nAlso try clicking methods like jitter or butterfly you get more cps",
+        "testerId": "1524788672778731701",
+        "ticketId": "1547588319008002148",
+        "timestamp": "2026-09-10T12:46:51.967Z"
+      }
+    ]
+  },
+  "1547461497720930336": {
+    "userId": "1547461497720930336",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1368067409529016442": {
+    "userId": "1368067409529016442",
+    "gamemodes": {
+      "MACE": {
+        "tier": "HT4",
+        "tests": 1,
+        "history": [
+          {
+            "tier": "HT4",
+            "previousTier": null,
+            "score": "0-3",
+            "note": "tested by gojo he's was busy so I'm posting \n\nNote-improve pearl catch and don't spam pearl",
+            "testerId": "1460455418559074368",
+            "ticketId": "1547613628369207378",
+            "timestamp": "2026-09-10T14:58:22.285Z"
+          }
+        ],
+        "cooldownUntil": 1789657102291
+      }
+    },
+    "stats": {
+      "tests": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": [
+      {
+        "gamemode": "MACE",
+        "tier": "HT4",
+        "previousTier": null,
+        "score": "0-3",
+        "note": "tested by gojo he's was busy so I'm posting \n\nNote-improve pearl catch and don't spam pearl",
+        "testerId": "1460455418559074368",
+        "ticketId": "1547613628369207378",
+        "timestamp": "2026-09-10T14:58:22.285Z"
+      }
+    ]
+  },
+  "1405090760822489110": {
+    "userId": "1405090760822489110",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1346905343309123695": {
+    "userId": "1346905343309123695",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1419683084059541565": {
+    "userId": "1419683084059541565",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1474866959471345725": {
+    "userId": "1474866959471345725",
+    "gamemodes": {},
+    "stats": {
+      "tests": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "history": []
+  },
+  "1528778298115752161": {
+    "userId": "1528778298115752161",
     "gamemodes": {},
     "stats": {
       "tests": 0,

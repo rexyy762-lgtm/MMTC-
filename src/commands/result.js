@@ -174,11 +174,13 @@ module.exports = {
       const modeData = playerData.gamemodes[gamemode];
 
       const previousTier = modeData.tier || null;
+      const resultId = `${player.id}-${Date.now()}`;
 
       modeData.tier = tier;
       modeData.tests += 1;
 
       modeData.history.push({
+        resultId,
         tier,
         previousTier,
         score,
@@ -203,6 +205,7 @@ module.exports = {
       }
 
       playerData.history.push({
+        resultId,
         gamemode,
         tier,
         previousTier,
@@ -323,10 +326,38 @@ module.exports = {
       const resultMessage =
         `🏆 <@${player.id}> your **${gamemode}** result has been recorded as **${tier}** with a score of **${score}**.`;
 
-      await resultChannel.send({
+      const sentResult = await resultChannel.send({
         content: resultMessage,
         embeds: [resultEmbed],
       });
+
+      // Save the Discord message ID so /editresult can replace it later.
+      const latestData = readData();
+      const latestPlayer = latestData[player.id];
+
+      const latestMode =
+        latestPlayer?.gamemodes?.[gamemode];
+
+      const latestModeResult =
+        latestMode?.history?.find(r => r.resultId === resultId);
+
+      if (latestModeResult) {
+        latestModeResult.resultMessageId = sentResult.id;
+        latestModeResult.resultChannelId = resultChannel.id;
+      }
+
+      const latestHistoryResult =
+        latestPlayer?.history?.find(r => r.resultId === resultId);
+
+      if (latestHistoryResult) {
+        latestHistoryResult.resultMessageId = sentResult.id;
+        latestHistoryResult.resultChannelId = resultChannel.id;
+      }
+
+      if (latestPlayer) {
+        latestData[player.id] = latestPlayer;
+        writeData(latestData);
+      }
 
       // ==================== TICKET CONFIRMATION ====================
 
